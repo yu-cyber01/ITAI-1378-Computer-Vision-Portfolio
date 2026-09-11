@@ -4,7 +4,6 @@
 ---
 
 ## Course Information
-## Course Information
 - **Course**: 
 - **Modality**: 
 - **Term**: Fall 2026 (08/17/2026 – 12/13/2026)
