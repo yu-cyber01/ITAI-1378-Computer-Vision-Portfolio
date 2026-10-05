@@ -14,11 +14,11 @@
 
 | Module | Title | Status |
 | :---: | :--- | :---: |
-| **1**|  introduction to Computer Vision |  |
-| **2** |  Image Fundamentals and Processing | :---: |
-| **3** | Machine Learning Foundations for Computer Vision | :---: |
+| **1**|  introduction to Computer Vision | Completed |
+| **2** |  Image Fundamentals and Processing | Completed |
+| **3** | Machine Learning Foundations for Computer Vision |  |
 | **4** | Neural Networks Fundamentals | :---: |
-| **5** | Convolutional Neural Networks (CNNs) | :---: |
+| **5** | Convolutional Neural Networks (CNNs) | Completed |
 | **6** | Advanced Architectures, Transfer Learning & Object Detection | :---: |
 | **7** | Vision Transformers and Image Segmentation | :---: |
 | **8** | Visual Language Models (VLMs) and Multimodal AI | :---: |
