@@ -16,7 +16,7 @@
 | :---: | :--- | :---: |
 | **1**|  introduction to Computer Vision | Completed |
 | **2** |  Image Fundamentals and Processing | Completed |
-| **3** | Machine Learning Foundations for Computer Vision |  |
+| **3** | Machine Learning Foundations for Computer Vision | Completed |
 | **4** | Neural Networks Fundamentals | :---: |
 | **5** | Convolutional Neural Networks (CNNs) | Completed |
 | **6** | Advanced Architectures, Transfer Learning & Object Detection | :---: |
