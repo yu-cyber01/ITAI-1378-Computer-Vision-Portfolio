@@ -19,7 +19,7 @@
 | **3** | Machine Learning Foundations for Computer Vision | Completed |
 | **4** | Neural Networks Fundamentals | :---: |
 | **5** | Convolutional Neural Networks (CNNs) | Completed |
-| **6** | Advanced Architectures, Transfer Learning & Object Detection | :---: |
+| **6** | Advanced Architectures, Transfer Learning & Object Detection | Completed |
 | **7** | Vision Transformers and Image Segmentation | :---: |
 | **8** | Visual Language Models (VLMs) and Multimodal AI | :---: |
 | **9** | Introduction to AI Agents with Computer Vision | :---: |
